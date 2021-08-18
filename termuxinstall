@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cp ffmpegthumbnailer /data/data/com.termux/files/home/usr/bin
+cp libffmpegthumbnailer.so*  /data/data/com.termux/files/home/usr/lib
+

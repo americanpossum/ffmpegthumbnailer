@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -D_FILE_OFFSET_BITS=64 -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/libffmpegthumbnailerobj.dir/libffmpegthumbnailer/moviedecoder.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/moviedecoder.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/moviedecoder.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -D_FILE_OFFSET_BITS=64 -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/libffmpegthumbnailerobj.dir/libffmpegthumbnailer/rgbwriter.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/rgbwriter.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/rgbwriter.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -D_FILE_OFFSET_BITS=64 -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/libffmpegthumbnailerobj.dir/libffmpegthumbnailer/stringoperations.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/stringoperations.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/stringoperations.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -D_FILE_OFFSET_BITS=64 -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/libffmpegthumbnailerobj.dir/libffmpegthumbnailer/videothumbnailer.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/videothumbnailer.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/videothumbnailer.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -D_FILE_OFFSET_BITS=64 -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -fPIC -std=c++11 -Wno-deprecated-declarations -o CMakeFiles/libffmpegthumbnailerobj.dir/libffmpegthumbnailer/videothumbnailerc.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/videothumbnailerc.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/videothumbnailerc.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -D_FILE_OFFSET_BITS=64 -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/libffmpegthumbnailerobj.dir/libffmpegthumbnailer/filmstripfilter.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/filmstripfilter.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/filmstripfilter.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -D_FILE_OFFSET_BITS=64 -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/libffmpegthumbnailerobj.dir/libffmpegthumbnailer/jpegwriter.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/jpegwriter.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/jpegwriter.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -D_FILE_OFFSET_BITS=64 -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/libffmpegthumbnailerobj.dir/libffmpegthumbnailer/pngwriter.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/pngwriter.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/libffmpegthumbnailer/pngwriter.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -std=c++11 -o CMakeFiles/ffmpegthumbnailer.dir/main.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/main.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/main.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/test",
+  "command": "/data/data/com.termux/files/usr/bin/cc -DTEST_DATADIR=\\\"/data/data/com.termux/files/home/source/ffmpegthumbnailer/test\\\" -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -o CMakeFiles/ffmpegthumbnailerctest.dir/testrunner.c.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/test/testrunner.c",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/test/testrunner.c"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/test",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DTEST_DATADIR=\\\"/data/data/com.termux/files/home/source/ffmpegthumbnailer/test\\\" -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer/test/testframework -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -std=c++11 -o CMakeFiles/ffmpegthumbnailertest.dir/testrunner.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/test/testrunner.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/test/testrunner.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/test",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DTEST_DATADIR=\\\"/data/data/com.termux/files/home/source/ffmpegthumbnailer/test\\\" -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer/test/testframework -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -std=c++11 -o CMakeFiles/ffmpegthumbnailertest.dir/histogramtest.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/test/histogramtest.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/test/histogramtest.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/test",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DTEST_DATADIR=\\\"/data/data/com.termux/files/home/source/ffmpegthumbnailer/test\\\" -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer/test/testframework -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -std=c++11 -o CMakeFiles/ffmpegthumbnailertest.dir/videothumbnailertest.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/test/videothumbnailertest.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/test/videothumbnailertest.cpp"
+},
+{
+  "directory": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/test",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DTEST_DATADIR=\\\"/data/data/com.termux/files/home/source/ffmpegthumbnailer/test\\\" -D__STDC_CONSTANT_MACROS -I/data/data/com.termux/files/home/source/ffmpegthumbnailer/test/testframework -I/data/data/com.termux/files/home/source/ffmpegthumbnailer -O3 -DNDEBUG -std=c++11 -o CMakeFiles/ffmpegthumbnailertest.dir/videothumbnailerctest.cpp.o -c /data/data/com.termux/files/home/source/ffmpegthumbnailer/test/videothumbnailerctest.cpp",
+  "file": "/data/data/com.termux/files/home/source/ffmpegthumbnailer/test/videothumbnailerctest.cpp"
+}
+]
